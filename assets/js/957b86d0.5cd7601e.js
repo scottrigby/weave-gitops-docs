@@ -1,0 +1,1 @@
+(self.webpackChunkweave_gitops_docs=self.webpackChunkweave_gitops_docs||[]).push([[119],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/weave-gitops-docs/blog/welcome"},{"title":"Hello","permalink":"/weave-gitops-docs/blog/hello-world"},{"title":"Hola","permalink":"/weave-gitops-docs/blog/hola"}]}')}}]);
