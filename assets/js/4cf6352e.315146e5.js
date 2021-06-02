@@ -1,1 +1,0 @@
-(self.webpackChunkweave_gitops_docs=self.webpackChunkweave_gitops_docs||[]).push([[635],{6156:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/weave-gitops-docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/weave-gitops-docs/blog/tags/hola"}')}}]);
