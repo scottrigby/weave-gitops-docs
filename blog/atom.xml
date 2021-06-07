@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.gitops.weave.works/blog</id>
-    <title>Weave Gitops Docs Blog</title>
+    <title>Weave GitOps Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.gitops.weave.works/blog"/>
-    <subtitle>Weave Gitops Docs Blog</subtitle>
+    <subtitle>Weave GitOps Blog</subtitle>
     <icon>https://docs.gitops.weave.works/img/favicon_150px.png</icon>
 </feed>
